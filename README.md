@@ -1,4 +1,4 @@
-# EV Market Performance & Insights
+# EV-Market-Analysis: EV Market Performance & Insights
 
 A reproducible project using Python, pandas, SQLite/SQL, Tableau Public, Plotly, and Flask. It profiles the supplied EV dataset, stores cleaned training and test records separately, exports group-level summaries, provides an interactive local web preview, and supports Tableau Public dashboard/story embedding.
 
