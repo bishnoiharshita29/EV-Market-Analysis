@@ -1,0 +1,23 @@
+{
+  "rows_in_dashboard_table": 199999,
+  "test_rows_stored_separately": 100000,
+  "database_mb": 105.45,
+  "query_tests": [
+    {
+      "test": "KPI query",
+      "elapsed_ms": 301.93,
+      "status": "PASS"
+    },
+    {
+      "test": "Grouped category query",
+      "elapsed_ms": 1514.41,
+      "status": "PASS"
+    },
+    {
+      "test": "Multi-filter query",
+      "elapsed_ms": 119.3,
+      "status": "PASS"
+    }
+  ],
+  "note": "Local SQLite query timings; Tableau rendering and filter responsiveness must be timed in Tableau Desktop/Public."
+}

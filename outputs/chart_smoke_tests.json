@@ -1,0 +1,32 @@
+[
+  {
+    "chart": "category_performance",
+    "html_chars": 8445,
+    "status": "PASS"
+  },
+  {
+    "chart": "manufacturer_performance",
+    "html_chars": 8387,
+    "status": "PASS"
+  },
+  {
+    "chart": "battery_mix",
+    "html_chars": 7914,
+    "status": "PASS"
+  },
+  {
+    "chart": "sales_by_year",
+    "html_chars": 8219,
+    "status": "PASS"
+  },
+  {
+    "chart": "country_footprint",
+    "html_chars": 8190,
+    "status": "PASS"
+  },
+  {
+    "chart": "price_range_by_category",
+    "html_chars": 14093,
+    "status": "PASS"
+  }
+]

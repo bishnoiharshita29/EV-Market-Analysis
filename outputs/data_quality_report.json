@@ -1,0 +1,41 @@
+{
+  "rows_train": 200000,
+  "rows_test": 100000,
+  "source_columns": 37,
+  "train_rows_after_dedup": 199999,
+  "test_rows_stored": 100000,
+  "cleaned_rows": 199999,
+  "duplicate_ids_removed_from_train": 1,
+  "duplicate_ids_removed_from_test": 0,
+  "missing_cells_before_imputation": 18996,
+  "missing_cells_after_cleaning": 0,
+  "unique_models": 17980,
+  "unique_vehicle_ids": 199999,
+  "unique_manufacturers": 200,
+  "unique_categories": 15,
+  "unique_countries": 10,
+  "unique_battery_types": 5,
+  "avg_customer_rating": 4.089,
+  "avg_range_km": 324.536,
+  "avg_battery_capacity_kwh": 78.242,
+  "total_annual_sales_units": 1550694926.0,
+  "database_mb": 105.45,
+  "build_seconds": 24.53,
+  "source_stats": [
+    {
+      "file": "ev_market_train.csv",
+      "rows": 200000,
+      "columns": 37,
+      "missing_cells": 18996,
+      "duplicate_vehicle_ids": 1
+    },
+    {
+      "file": "ev_market_test.csv",
+      "rows": 100000,
+      "columns": 37,
+      "missing_cells": 9511,
+      "duplicate_vehicle_ids": 0
+    }
+  ],
+  "analysis_scope": "cleaned training split only; test split stored separately and excluded from dashboard aggregates"
+}
