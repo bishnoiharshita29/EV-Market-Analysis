@@ -5,17 +5,17 @@
   "query_tests": [
     {
       "test": "KPI query",
-      "elapsed_ms": 301.93,
+      "elapsed_ms": 335.2,
       "status": "PASS"
     },
     {
       "test": "Grouped category query",
-      "elapsed_ms": 1514.41,
+      "elapsed_ms": 1675.31,
       "status": "PASS"
     },
     {
       "test": "Multi-filter query",
-      "elapsed_ms": 119.3,
+      "elapsed_ms": 135.06,
       "status": "PASS"
     }
   ],

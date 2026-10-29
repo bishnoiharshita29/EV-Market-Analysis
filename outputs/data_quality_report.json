@@ -20,7 +20,7 @@
   "avg_battery_capacity_kwh": 78.242,
   "total_annual_sales_units": 1550694926.0,
   "database_mb": 105.45,
-  "build_seconds": 24.53,
+  "build_seconds": 27.22,
   "source_stats": [
     {
       "file": "ev_market_train.csv",
